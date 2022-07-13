@@ -1,6 +1,6 @@
-package br.com.sinerji.entity;
+package br.com.test.entity;
 
-import br.com.sinerji.enums.Role;
+import br.com.test.enums.Role;
 
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;

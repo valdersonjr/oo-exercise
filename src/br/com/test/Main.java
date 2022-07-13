@@ -1,10 +1,10 @@
-package br.com.sinerji;
+package br.com.test;
 
-import br.com.sinerji.dtos.EmployeeMonthYearDto;
-import br.com.sinerji.entity.Employee;
-import br.com.sinerji.entity.MonthSale;
-import br.com.sinerji.enums.Role;
-import br.com.sinerji.services.EmployeeService;
+import br.com.test.dtos.EmployeeMonthYearDto;
+import br.com.test.entity.Employee;
+import br.com.test.entity.MonthSale;
+import br.com.test.enums.Role;
+import br.com.test.services.EmployeeService;
 
 import java.util.ArrayList;
 import java.util.List;

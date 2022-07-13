@@ -1,6 +1,4 @@
-package br.com.sinerji.dtos;
-
-import br.com.sinerji.entity.Employee;
+package br.com.test.dtos;
 
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;

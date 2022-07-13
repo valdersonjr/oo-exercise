@@ -1,4 +1,4 @@
-package br.com.sinerji.enums;
+package br.com.test.enums;
 
 public enum Role {
     GERENTE(1, "Gerente", 20000.0, 3000.0, 1.0),

@@ -1,6 +1,6 @@
-package br.com.sinerji.dtos;
+package br.com.test.dtos;
 
-import br.com.sinerji.entity.Employee;
+import br.com.test.entity.Employee;
 
 public class QuestionSixDto {
     private Employee employee;

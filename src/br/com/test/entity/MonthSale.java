@@ -1,4 +1,4 @@
-package br.com.sinerji.entity;
+package br.com.test.entity;
 
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;

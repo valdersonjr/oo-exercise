@@ -1,12 +1,12 @@
-package br.com.sinerji.services;
+package br.com.test.services;
 
-import br.com.sinerji.dtos.EmployeeMonthYearDto;
-import br.com.sinerji.dtos.QuestionBonusDto;
-import br.com.sinerji.dtos.QuestionFiveDto;
-import br.com.sinerji.dtos.QuestionSixDto;
-import br.com.sinerji.entity.Employee;
-import br.com.sinerji.entity.MonthSale;
-import br.com.sinerji.enums.Role;
+import br.com.test.dtos.EmployeeMonthYearDto;
+import br.com.test.dtos.QuestionBonusDto;
+import br.com.test.dtos.QuestionFiveDto;
+import br.com.test.dtos.QuestionSixDto;
+import br.com.test.entity.Employee;
+import br.com.test.entity.MonthSale;
+import br.com.test.enums.Role;
 
 import java.time.YearMonth;
 import java.time.format.DateTimeFormatter;
